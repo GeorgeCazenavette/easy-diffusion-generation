@@ -1,0 +1,9 @@
+diffusers
+transformers
+segmoe
+sentencepiece
+beautifulsoup4
+ftfy
+huggingface-hub
+tqdm
+dominate
