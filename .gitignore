@@ -1,0 +1,15 @@
+*.png
+*.jpg
+*.safetensors
+*.pt
+*.tmp*
+*.txt
+*.out
+.idea
+__pycache__
+generated_images
+
+!requirements.txt
+!assets/*.png
+!prompts/demo.txt
+!.gitignore
